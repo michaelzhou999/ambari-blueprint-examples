@@ -1404,9 +1404,6 @@
           "name" : "YARN_CLIENT"
         },
         {
-          "name" : "METRICS_COLLECTOR"
-        },
-        {
           "name" : "MAPREDUCE2_CLIENT"
         }
       ],
