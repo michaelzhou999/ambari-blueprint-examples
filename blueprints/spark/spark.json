@@ -1380,9 +1380,6 @@
           "name" : "KNOX_GATEWAY"
         },
         {
-          "name" : "METRICS_MONITOR"
-        },
-        {
           "name" : "FALCON_CLIENT"
         },
         {
@@ -1432,9 +1429,6 @@
           "name" : "HDFS_CLIENT"
         },
         {
-          "name" : "METRICS_MONITOR"
-        },
-        {
           "name" : "SECONDARY_NAMENODE"
         }
       ],
@@ -1449,9 +1443,6 @@
         },
         {
           "name" : "NODEMANAGER"
-        },
-        {
-          "name" : "METRICS_MONITOR"
         },
         {
           "name" : "DATANODE"
@@ -1474,9 +1465,6 @@
         },
         {
           "name" : "HIVE_SERVER"
-        },
-        {
-          "name" : "METRICS_MONITOR"
         },
         {
           "name" : "SPARK_JOBHISTORYSERVER"
@@ -1535,9 +1523,6 @@
         },
         {
           "name" : "FALCON_SERVER"
-        },
-        {
-          "name" : "METRICS_MONITOR"
         },
         {
           "name" : "MAPREDUCE2_CLIENT"
